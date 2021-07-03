@@ -4,7 +4,7 @@ This is command line tool to manage your todo's
 
 # How to use
 
-```npm i todos-cli -g --save```
+```npm i my-todo-cli -g --save```
 
 Then...
 
